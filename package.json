@@ -1,0 +1,25 @@
+{
+  "name": "ineedattentionapi",
+  "version": "1.0.0",
+  "description": "Backend for the I Need Attention App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reharri7/iNeedAttentionApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reharri7/iNeedAttentionApi/issues"
+  },
+  "homepage": "https://github.com/reharri7/iNeedAttentionApi#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
